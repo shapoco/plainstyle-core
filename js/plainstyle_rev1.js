@@ -1,3 +1,5 @@
+//@ts-check
+
 /*
 MIT License
 
@@ -21,8 +23,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
-
-//@ts-check
 
 // todo: Unicode 12.0 の普及が進んだら対応する:
 // - 小書きヰ https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9B%B8%E3%81%8D%E3%83%B0
